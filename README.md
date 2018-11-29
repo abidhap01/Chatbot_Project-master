@@ -15,3 +15,7 @@ Start the server and open index file on browser
 
 ![screen3](https://user-images.githubusercontent.com/28520902/49236220-a6f74880-f3c9-11e8-98b5-a315cc6b683f.png)
 
+
+
+References
+https://chatterbot.readthedocs.io/en/stable/training.html
